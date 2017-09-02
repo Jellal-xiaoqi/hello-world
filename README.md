@@ -1,2 +1,2 @@
 # hello-world
-The first time for create a project
+The first time to create a project
